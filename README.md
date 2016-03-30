@@ -37,3 +37,9 @@ The goal of this project is to provide an algorithm to score pedestrian routes a
 * Source code (in this repository) documenting a reproducible process for obtaining and organizing the necessary geospatial data.
 
 * A map of Seattle classifying streets according to the algorithm.
+
+* A routing algorithm for finding pleasant walking routes between any two points in Seattle.
+
+* A prototype web app implementing the routing algorithm as a Google Maps mashup (or similar).
+
+
